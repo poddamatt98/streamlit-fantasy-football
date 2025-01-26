@@ -28,7 +28,8 @@ selected_league = league_col.selectbox('Lega', options=leagues)
 data_file = [f for f in files if f.startswith(f'{selected_season}_{selected_league}')][0]
 config_file = '_'.join(data_file.split('_')[:-1]) + '_config.yaml'
 
-data = pd.read_csv(data_path + '/' + data_file)
+data = pd.read_csv(data_path + '/' + data_file).dropna().reset_index(drop=True)
+
 with open(config_path + '/' + config_file, 'r') as f:
     config = yaml.safe_load(f)
 
@@ -38,7 +39,6 @@ teams = processed_data.team.unique()
 selected_team = team_col.selectbox('Squadra', options=teams)
 
 team_data = processed_data[processed_data.team == selected_team].drop('team', axis=1).reset_index(drop=True)
-print(team_data.columns)
 team_data = team_data.rename({
     'role': 'Ruolo',
     'name': 'Nome',

@@ -35,6 +35,10 @@ def read_remote_csv(path):
     return data
 
 def process_data(data, config):
+    data['buyPrice'] = data['buyPrice'].astype(int)
+    data['startingFCPrice'] = data['startingFCPrice'].astype(int)
+    data['actualFCPrice'] = data['actualFCPrice'].astype(int)
+
     data['Rapporto'] = (data['actualFCPrice'] / data['startingFCPrice']).clip(upper=config['ratio_ub'], lower=config['ratio_lb']).round(int(config['precision']))
     data['releasePrice'] = (data['Rapporto'] * data['buyPrice']).round(0).clip(lower=1).astype(int)
     
