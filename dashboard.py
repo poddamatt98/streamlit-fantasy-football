@@ -4,8 +4,6 @@ from utils import get_github_files, read_remote_csv, read_remote_yaml, process_d
 import yaml
 import os
 
-pd.options.display.float_format = '{:.2f}'.format
-
 st.title('Fantacalcio manager')
 
 data_path = 'data/release_prices'
