@@ -1,251 +1,251 @@
 role,name,team,buyPrice,startingFCPrice,actualFCPrice
-P,Rui Patricio,IlBancoVinceSempre BJ,1,1,1
+P,Rui Patricio,IlBancoVinceSempre BJ,1,1,2
 P,Carnesecchi,IlBancoVinceSempre BJ,34,13,14
-P,Vasquez D.,IlBancoVinceSempre BJ,1,5,12
-D,Calabria,IlBancoVinceSempre BJ,1,7,2
+P,Vasquez D.,IlBancoVinceSempre BJ,1,5,11
+D,Calabria,IlBancoVinceSempre BJ,1,7,3
 D,Bremer,IlBancoVinceSempre BJ,31,16,8
 D,Augello,IlBancoVinceSempre BJ,1,5,8
-D,Angelino,IlBancoVinceSempre BJ,27,10,10
+D,Angelino,IlBancoVinceSempre BJ,27,10,12
 D,Ruggeri,IlBancoVinceSempre BJ,25,11,10
-D,Dumfries,IlBancoVinceSempre BJ,30,16,22
-D,Viti,IlBancoVinceSempre BJ,1,5,11
-D,Iovine,IlBancoVinceSempre BJ,1,3,2
+D,Dumfries,IlBancoVinceSempre BJ,30,16,23
+D,Viti,IlBancoVinceSempre BJ,1,5,10
+D,Iovine,IlBancoVinceSempre BJ,1,3,1
 C,Locatelli,IlBancoVinceSempre BJ,1,8,11
-C,Mandragora,IlBancoVinceSempre BJ,1,8,5
-C,Orsolini,IlBancoVinceSempre BJ,47,21,28
+C,Mandragora,IlBancoVinceSempre BJ,1,8,6
+C,Orsolini,IlBancoVinceSempre BJ,47,21,27
 C,Mkhitaryan,IlBancoVinceSempre BJ,26,15,15
-C,Bennacer,IlBancoVinceSempre BJ,3,7,3
+C,Bennacer *,IlBancoVinceSempre BJ,3,7,4
 C,Douglas Luiz,IlBancoVinceSempre BJ,56,20,10
 C,Adli,IlBancoVinceSempre BJ,1,5,19
 C,Le Fee *,IlBancoVinceSempre BJ,14,10,3
-A,Dybala,IlBancoVinceSempre BJ,44,34,26
+A,Dybala,IlBancoVinceSempre BJ,44,34,25
 A,Milik,IlBancoVinceSempre BJ,1,12,1
 A,Colombo,IlBancoVinceSempre BJ,4,12,17
 A,Kvaratskhelia *,IlBancoVinceSempre BJ,140,29,26
-A,Beltran L.,IlBancoVinceSempre BJ,1,11,21
+A,Beltran L.,IlBancoVinceSempre BJ,1,11,22
 A,Camarda,IlBancoVinceSempre BJ,1,1,3
 P,Provedel,FC Stirati,32,12,10
 P,Okoye,FC Stirati,5,7,6
 P,Mandas,FC Stirati,1,1,1
 D,Bastoni,FC Stirati,30,16,18
 D,Martinez Quarta *,FC Stirati,12,11,7
-D,Vasquez,FC Stirati,9,9,5
+D,Vasquez,FC Stirati,9,9,8
 D,Gila,FC Stirati,1,5,9
-D,Valeri,FC Stirati,4,6,12
+D,Valeri,FC Stirati,4,6,13
 D,Beukema,FC Stirati,3,7,10
-D,Bisseck,FC Stirati,1,5,9
-D,Tchatchoua,FC Stirati,1,6,6
+D,Bisseck,FC Stirati,1,5,10
+D,Tchatchoua,FC Stirati,1,6,9
 C,Zielinski,FC Stirati,11,11,15
-C,Pasalic,FC Stirati,20,15,11
+C,Pasalic,FC Stirati,20,15,10
 C,Pulisic,FC Stirati,79,30,30
-C,Frattesi,FC Stirati,16,18,18
-C,Marin,FC Stirati,3,6,15
+C,Frattesi,FC Stirati,16,18,20
+C,Marin,FC Stirati,3,6,14
 C,Fazzini,FC Stirati,3,4,9
-C,Bernabe',FC Stirati,23,14,9
-C,Paz N.,FC Stirati,1,7,19
-A,Morata,FC Stirati,131,26,21
-A,Belotti,FC Stirati,26,17,11
+C,Bernabe',FC Stirati,23,14,8
+C,Paz N.,FC Stirati,1,7,21
+A,Morata *,FC Stirati,131,26,20
+A,Belotti *,FC Stirati,26,17,10
 A,Arnautovic,FC Stirati,1,8,5
 A,Mihaila,FC Stirati,1,8,7
 A,Brenner,FC Stirati,5,7,7
 A,Castellanos,FC Stirati,70,21,25
-P,Perin,F.C. Pontos,5,2,6
+P,Perin,F.C. Pontos,5,2,5
 P,Pinsoglio,F.C. Pontos,1,1,1
 P,Di Gregorio,F.C. Pontos,60,17,14
 D,Pavard,F.C. Pontos,22,14,7
-D,Candela,F.C. Pontos,1,5,2
+D,Candela *,F.C. Pontos,1,5,2
 D,Gallo,F.C. Pontos,4,5,6
-D,Zanoli,F.C. Pontos,8,6,7
-D,Olivera,F.C. Pontos,1,7,10
+D,Zanoli,F.C. Pontos,8,6,6
+D,Olivera,F.C. Pontos,1,7,9
 D,Bijol,F.C. Pontos,7,8,10
 D,Kayode *,F.C. Pontos,5,5,1
 D,Kovacik *,F.C. Pontos,1,1,1
 C,Politano,F.C. Pontos,42,24,14
-C,Kastanos,F.C. Pontos,1,4,8
+C,Kastanos,F.C. Pontos,1,4,7
 C,Guendouzi,F.C. Pontos,7,10,12
 C,Maldini,F.C. Pontos,11,9,11
-C,Samardzic,F.C. Pontos,19,17,18
+C,Samardzic,F.C. Pontos,19,17,17
 C,Thuram K.,F.C. Pontos,18,10,19
 C,Felici,F.C. Pontos,4,5,11
 C,Ekkelenkamp,F.C. Pontos,8,6,8
-A,Lapadula,F.C. Pontos,1,9,3
+A,Lapadula *,F.C. Pontos,1,9,3
 A,Osimhen *,F.C. Pontos,101,35,33
-A,Gudmundsson A.,F.C. Pontos,91,27,20
-A,Retegui,F.C. Pontos,55,20,33
-A,Isaksen,F.C. Pontos,2,11,13
-A,Castro S.,F.C. Pontos,20,8,23
+A,Gudmundsson A.,F.C. Pontos,91,27,22
+A,Retegui,F.C. Pontos,55,20,34
+A,Isaksen,F.C. Pontos,2,11,12
+A,Castro S.,F.C. Pontos,20,8,22
 P,Falcone,Nuorese Calcio 1930,20,9,10
 P,De Gea,Nuorese Calcio 1930,30,11,19
-P,Turati,Nuorese Calcio 1930,1,8,12
-D,Spinazzola,Nuorese Calcio 1930,26,13,6
-D,Kyriakopoulos,Nuorese Calcio 1930,1,6,14
-D,Pavlovic,Nuorese Calcio 1930,15,10,8
+P,Turati,Nuorese Calcio 1930,1,8,13
+D,Spinazzola,Nuorese Calcio 1930,26,13,9
+D,Kyriakopoulos,Nuorese Calcio 1930,1,6,13
+D,Pavlovic,Nuorese Calcio 1930,15,10,9
 D,Mazzocchi,Nuorese Calcio 1930,3,4,2
 D,Cambiaso,Nuorese Calcio 1930,21,9,14
-D,Baschirotto,Nuorese Calcio 1930,6,9,6
-D,Frese,Nuorese Calcio 1930,1,5,2
+D,Baschirotto,Nuorese Calcio 1930,6,9,5
+D,Frese,Nuorese Calcio 1930,1,5,1
 D,Coco,Nuorese Calcio 1930,6,8,8
-C,Verdi,Nuorese Calcio 1930,2,9,2
+C,Verdi *,Nuorese Calcio 1930,2,9,2
 C,Duncan,Nuorese Calcio 1930,4,8,3
 C,Zaccagni,Nuorese Calcio 1930,70,27,27
 C,McTominay,Nuorese Calcio 1930,45,16,24
-C,Ndoye,Nuorese Calcio 1930,11,10,21
-C,Harroui,Nuorese Calcio 1930,10,13,8
+C,Ndoye,Nuorese Calcio 1930,11,10,20
+C,Harroui,Nuorese Calcio 1930,10,13,7
 C,Oudin *,Nuorese Calcio 1930,2,7,2
 C,Karlsson,Nuorese Calcio 1930,1,7,5
-A,Sanabria,Nuorese Calcio 1930,4,10,6
-A,Zapata D.,Nuorese Calcio 1930,110,25,20
+A,Sanabria,Nuorese Calcio 1930,4,10,5
+A,Zapata D.,Nuorese Calcio 1930,110,25,19
 A,Luvumbo,Nuorese Calcio 1930,25,12,8
-A,Vitinha O.,Nuorese Calcio 1930,15,12,6
+A,Vitinha O.,Nuorese Calcio 1930,15,12,5
 A,Yildiz,Nuorese Calcio 1930,35,15,23
-A,Krstovic,Nuorese Calcio 1930,35,17,16
-P,Scuffet,mariBAR,8,7,4
+A,Krstovic,Nuorese Calcio 1930,35,17,18
+P,Scuffet,mariBAR,8,7,3
 P,Gollini,mariBAR,7,10,2
-P,Suzuki,mariBAR,5,7,9
-D,Darmian,mariBAR,11,8,14
-D,Buongiorno,mariBAR,39,16,16
-D,Mina,mariBAR,10,8,8
-D,Danilo,mariBAR,1,14,7
-D,Miranda J.,mariBAR,2,8,9
+P,Suzuki,mariBAR,5,7,8
+D,Darmian,mariBAR,11,8,13
+D,Buongiorno,mariBAR,39,16,15
+D,Mina,mariBAR,10,8,6
+D,Danilo *,mariBAR,1,14,7
+D,Miranda J.,mariBAR,2,8,10
 D,Emerson Royal,mariBAR,21,12,6
 D,Kamara H.,mariBAR,1,5,10
-D,Dodo',mariBAR,1,9,11
+D,Dodo',mariBAR,1,9,12
 C,Pellegrini Lo.,mariBAR,51,22,11
 C,Calhanoglu,mariBAR,82,28,19
-C,Zambo Anguissa,mariBAR,1,10,23
+C,Zambo Anguissa,mariBAR,1,10,24
 C,Weah,mariBAR,2,5,18
-C,Saelemaekers,mariBAR,1,5,15
-C,Lovric,mariBAR,1,10,12
-C,Tchaouna,mariBAR,15,9,5
-C,Conceicao,mariBAR,20,11,15
+C,Saelemaekers,mariBAR,1,5,16
+C,Lovric,mariBAR,1,10,13
+C,Tchaouna,mariBAR,15,9,4
+C,Conceicao,mariBAR,20,11,16
 A,Abraham,mariBAR,1,13,10
 A,Gonzalez N.,mariBAR,26,25,12
 A,Esposito Se.,mariBAR,2,3,23
 A,Dallinga,mariBAR,11,22,12
-A,Adams C.,mariBAR,31,14,22
-A,Dovbyk,mariBAR,141,32,23
-P,Montipo',col18siraddioppiaFC,2,7,4
+A,Adams C.,mariBAR,31,14,23
+A,Dovbyk,mariBAR,141,32,25
+P,Montipo',col18siraddioppiaFC,2,7,5
 P,Ryan *,col18siraddioppiaFC,1,1,1
-P,Svilar,col18siraddioppiaFC,35,13,13
-D,Luperto,col18siraddioppiaFC,8,8,11
+P,Svilar,col18siraddioppiaFC,35,13,12
+D,Luperto,col18siraddioppiaFC,8,8,10
 D,Romagnoli,col18siraddioppiaFC,15,10,5
-D,Zappacosta,col18siraddioppiaFC,18,9,16
+D,Zappacosta,col18siraddioppiaFC,18,9,15
 D,Mancini,col18siraddioppiaFC,8,10,13
 D,Zortea,col18siraddioppiaFC,9,7,17
-D,Bellanova,col18siraddioppiaFC,32,13,12
-D,Pongracic,col18siraddioppiaFC,7,9,1
+D,Bellanova,col18siraddioppiaFC,32,13,13
+D,Pongracic,col18siraddioppiaFC,7,9,3
 D,Circati,col18siraddioppiaFC,1,5,1
 C,De Roon,col18siraddioppiaFC,1,8,14
-C,Mazzitelli,col18siraddioppiaFC,6,8,8
-C,Pessina,col18siraddioppiaFC,18,12,6
+C,Mazzitelli *,col18siraddioppiaFC,6,8,8
+C,Pessina,col18siraddioppiaFC,18,12,5
 C,Hernani,col18siraddioppiaFC,1,6,14
 C,Da Cunha,col18siraddioppiaFC,1,12,10
 C,Frendrup,col18siraddioppiaFC,7,11,12
 C,Colpani,col18siraddioppiaFC,41,23,11
 C,Andersen M.K. *,col18siraddioppiaFC,1,2,11
-A,Cutrone,col18siraddioppiaFC,6,9,20
+A,Cutrone,col18siraddioppiaFC,6,9,19
 A,Thauvin,col18siraddioppiaFC,16,10,21
 A,Vlahovic,col18siraddioppiaFC,195,37,27
-A,Soule',col18siraddioppiaFC,49,20,6
-A,Mota,col18siraddioppiaFC,7,10,18
+A,Soule',col18siraddioppiaFC,49,20,5
+A,Mota,col18siraddioppiaFC,7,10,17
 A,Banda,col18siraddioppiaFC,4,9,5
-P,Skorupski,CSK il morto,20,11,11
-P,Milinkovic-Savic V.,CSK il morto,28,10,17
-P,Terracciano,CSK il morto,3,11,3
+P,Skorupski,CSK il morto,20,11,12
+P,Milinkovic-Savic V.,CSK il morto,28,10,18
+P,Terracciano,CSK il morto,3,11,2
 D,Biraghi,CSK il morto,15,7,5
-D,De Vrij,CSK il morto,2,8,12
+D,De Vrij,CSK il morto,2,8,13
 D,Acerbi,CSK il morto,11,10,6
 D,Hernandez T.,CSK il morto,40,20,13
-D,Rrahmani,CSK il morto,15,11,13
+D,Rrahmani,CSK il morto,15,11,14
 D,Perez N. *,CSK il morto,1,7,8
-D,Carlos Augusto,CSK il morto,15,9,15
+D,Carlos Augusto,CSK il morto,15,9,16
 D,Marin R.,CSK il morto,1,8,1
 C,Viola,CSK il morto,2,6,9
 C,Loftus-Cheek,CSK il morto,40,19,9
 C,Strefezza,CSK il morto,22,12,20
-C,Brescianini,CSK il morto,30,4,12
+C,Brescianini,CSK il morto,30,4,14
 C,Messias,CSK il morto,1,9,4
-C,Man,CSK il morto,32,19,21
+C,Man,CSK il morto,32,19,20
 C,Vlasic,CSK il morto,8,15,14
 C,Aebischer,CSK il morto,1,10,3
-A,Kean,CSK il morto,35,21,32
+A,Kean,CSK il morto,35,21,33
 A,Lukaku,CSK il morto,61,33,30
-A,Djuric,CSK il morto,16,12,19
+A,Djuric,CSK il morto,16,12,17
 A,De Ketelaere,CSK il morto,46,21,24
-A,Mosquera,CSK il morto,8,8,17
-A,Mbangula,CSK il morto,20,1,13
+A,Mosquera,CSK il morto,8,8,16
+A,Mbangula,CSK il morto,20,1,14
 P,Meret,Team Briacu 2020,40,15,19
 P,Contini,Team Briacu 2020,1,1,1
-P,Caprile,Team Briacu 2020,1,2,8
-D,Djimsiti,Team Briacu 2020,3,8,4
+P,Caprile,Team Briacu 2020,1,2,10
+D,Djimsiti,Team Briacu 2020,3,8,6
 D,Kolasinac,Team Briacu 2020,9,9,5
 D,Di Lorenzo,Team Briacu 2020,29,18,19
-D,Dawidowicz,Team Briacu 2020,1,5,3
+D,Dawidowicz,Team Briacu 2020,1,5,2
 D,Tomori,Team Briacu 2020,1,14,7
 D,Parisi,Team Briacu 2020,5,8,7
-D,Tavares N.,Team Briacu 2020,2,6,17
+D,Tavares N.,Team Briacu 2020,2,6,16
 D,Cabal,Team Briacu 2020,2,5,5
 C,Cristante,Team Briacu 2020,2,9,9
-C,Freuler,Team Briacu 2020,3,9,14
+C,Freuler,Team Briacu 2020,3,9,13
 C,Barella,Team Briacu 2020,45,20,25
-C,Zaniolo,Team Briacu 2020,26,13,13
+C,Zaniolo,Team Briacu 2020,26,13,12
 C,Castrovilli,Team Briacu 2020,11,10,2
-C,Malinovskyi,Team Briacu 2020,16,11,4
-C,Ilic,Team Briacu 2020,4,7,9
+C,Malinovskyi,Team Briacu 2020,16,11,3
+C,Ilic,Team Briacu 2020,4,7,8
 C,Busio,Team Briacu 2020,3,7,10
 A,Piccoli,Team Briacu 2020,14,13,18
-A,Leao,Team Briacu 2020,120,25,23
-A,Thuram,Team Briacu 2020,104,31,41
-A,Dia,Team Briacu 2020,20,15,25
-A,Lucca,Team Briacu 2020,29,14,21
-A,Okafor,Team Briacu 2020,3,11,7
+A,Leao,Team Briacu 2020,120,25,22
+A,Thuram,Team Briacu 2020,104,31,40
+A,Dia,Team Briacu 2020,20,15,24
+A,Lucca,Team Briacu 2020,29,14,23
+A,Okafor,Team Briacu 2020,3,11,6
 P,Sommer,Puttana Mihaila,65,18,16
 P,Joronen,Puttana Mihaila,1,6,2
 P,Martinez Jo.,Puttana Mihaila,5,2,1
-D,Dimarco,Puttana Mihaila,60,24,23
-D,Gosens,Puttana Mihaila,39,13,15
+D,Dimarco,Puttana Mihaila,60,24,21
+D,Gosens,Puttana Mihaila,39,13,16
 D,Varane *,Puttana Mihaila,2,9,7
 D,N'Dicka,Puttana Mihaila,7,8,8
-D,Lazaro,Puttana Mihaila,3,4,10
-D,Vojvoda,Puttana Mihaila,3,6,5
+D,Lazaro,Puttana Mihaila,3,4,11
+D,Vojvoda,Puttana Mihaila,3,6,4
 D,Godfrey *,Puttana Mihaila,3,7,2
-D,Hien,Puttana Mihaila,8,8,7
-C,Gaetano,Puttana Mihaila,3,9,11
+D,Hien,Puttana Mihaila,8,8,8
+C,Gaetano,Puttana Mihaila,3,9,10
 C,Fagioli,Puttana Mihaila,3,10,3
-C,Chukwueze,Puttana Mihaila,6,11,8
+C,Chukwueze,Puttana Mihaila,6,11,9
 C,Ederson D.s.,Puttana Mihaila,29,15,17
 C,Baldanzi,Puttana Mihaila,1,8,9
 C,Ferguson,Puttana Mihaila,19,18,12
-C,Suslov,Puttana Mihaila,18,13,5
+C,Suslov,Puttana Mihaila,18,13,6
 C,Neres,Puttana Mihaila,40,20,23
 A,Simeone,Puttana Mihaila,1,11,10
-A,Sanchez,Puttana Mihaila,11,16,4
-A,Lookman,Puttana Mihaila,40,28,38
-A,Pohjanpalo,Puttana Mihaila,41,16,19
-A,Noslin,Puttana Mihaila,8,16,13
-A,Taremi,Puttana Mihaila,45,15,7
+A,Sanchez,Puttana Mihaila,11,16,3
+A,Lookman,Puttana Mihaila,40,28,36
+A,Pohjanpalo *,Puttana Mihaila,41,16,19
+A,Noslin,Puttana Mihaila,8,16,12
+A,Taremi,Puttana Mihaila,45,15,8
 P,Sportiello,Puertosol,1,1,1
 P,Maignan,Puertosol,53,15,15
 P,Torriani,Puertosol,1,1,1
 D,Masina,Puertosol,1,6,11
 D,Ismajli,Puertosol,1,6,12
-D,De Winter,Puertosol,1,6,3
+D,De Winter,Puertosol,1,6,7
 D,Gatti,Puertosol,6,7,12
 D,Posch,Puertosol,21,8,3
-D,Dossena,Puertosol,6,8,7
-D,Delprato,Puertosol,5,6,13
+D,Dossena,Puertosol,6,8,6
+D,Delprato,Puertosol,5,6,14
 D,Savona,Puertosol,10,1,13
 C,Lazovic,Puertosol,6,10,13
-C,Paredes,Puertosol,8,7,11
+C,Paredes,Puertosol,8,7,12
 C,Lobotka,Puertosol,8,9,9
-C,Duda,Puertosol,1,7,6
-C,Gyasi,Puertosol,5,5,13
-C,Koopmeiners,Puertosol,55,29,16
-C,Fabbian,Puertosol,16,13,11
-C,Reijnders,Puertosol,44,12,22
-A,Caprari,Puertosol,2,9,12
-A,Pinamonti,Puertosol,20,18,21
+C,Duda,Puertosol,1,7,5
+C,Gyasi,Puertosol,5,5,12
+C,Koopmeiners,Puertosol,55,29,15
+C,Fabbian,Puertosol,16,13,12
+C,Reijnders,Puertosol,44,12,26
+A,Caprari,Puertosol,2,9,11
+A,Pinamonti,Puertosol,20,18,18
 A,Scamacca,Puertosol,1,28,14
 A,Martinez L.,Puertosol,200,41,31
-A,Bonny,Puertosol,8,8,16
-A,Tengstedt,Puertosol,1,12,21
+A,Bonny,Puertosol,8,8,15
+A,Tengstedt,Puertosol,1,12,20

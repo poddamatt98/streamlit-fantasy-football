@@ -1,148 +1,148 @@
 role,name,team,buyPrice,startingFCPrice,actualFCPrice
-Por,Rui Patricio,ALoT,1,1.0,1.0
+Por,Rui Patricio,ALoT,1,1.0,2.0
 Por,Maignan,ALoT,14,15.0,15.0
 Por,Carnesecchi,ALoT,4,13.0,14.0
 B;Ds;E,Masina,ALoT,5,7.0,10.0
-E,Spinazzola,ALoT,15,12.0,6.0
+E,Spinazzola,ALoT,15,12.0,9.0
 B;Dd;E,Darmian,ALoT,10,9.0,14.0
-Dc,Rrahmani,ALoT,15,11.0,13.0
-Dc,Pavlovic,ALoT,15,10.0,8.0
+Dc,Rrahmani,ALoT,15,11.0,14.0
+Dc,Pavlovic,ALoT,15,10.0,9.0
 B;Dd;Ds,Godfrey *,ALoT,12,9.0,1.0
 E,Ruggeri,ALoT,11,10.0,10.0
-E,Dumfries,ALoT,5,15.0,22.0
-Ds;Dc,Vasquez,ALoT,4,10.0,6.0
+E,Dumfries,ALoT,5,15.0,23.0
+Ds;Dc,Vasquez,ALoT,4,10.0,8.0
 Dd;Dc,Kossounou,ALoT,4,10.0,6.0
 C;T,Zielinski,ALoT,12,11.0,15.0
 M;C,Cristante,ALoT,11,10.0,9.0
-M;C,Fofana Y.,ALoT,5,9.0,13.0
-W;A,Chukwueze,ALoT,20,10.0,8.0
-W,Saelemaekers,ALoT,3,5.0,15.0
-M;C,Marin,ALoT,8,6.0,15.0
+M;C,Fofana Y.,ALoT,5,9.0,12.0
+W;A,Chukwueze,ALoT,20,10.0,9.0
+W,Saelemaekers,ALoT,3,5.0,16.0
+M;C,Marin,ALoT,8,6.0,14.0
 M;C,McKennie,ALoT,2,8.0,14.0
 M;C,Asllani,ALoT,3,6.0,8.0
-W;T;A,Oristanio,ALoT,5,10.0,17.0
+W;T;A,Oristanio,ALoT,5,10.0,16.0
 Pc,Martinez L.,ALoT,164,42.0,31.0
 A,Raspadori,ALoT,1,12.0,4.0
 A,De Ketelaere,ALoT,23,21.0,24.0
-A,Okafor,ALoT,32,11.0,7.0
+A,Okafor,ALoT,32,11.0,6.0
 W;A,Isaksen,ALoT,2,12.0,13.0
-Pc,Taremi,ALoT,22,14.0,7.0
+Pc,Taremi,ALoT,22,14.0,8.0
 Pc,Mosquera,ALoT,18,7.0,16.0
 Pc,Dallinga,ALoT,10,21.0,12.0
 Por,Falcone,Skinhead Club de futbol,4,9.0,10.0
-Por,Montipo',Skinhead Club de futbol,1,7.0,4.0
+Por,Montipo',Skinhead Club de futbol,1,7.0,5.0
 Por,Di Gregorio,Skinhead Club de futbol,40,17.0,14.0
 Dc,Acerbi,Skinhead Club de futbol,20,10.0,6.0
-Dc,Djimsiti,Skinhead Club de futbol,15,8.0,4.0
+Dc,Djimsiti,Skinhead Club de futbol,15,8.0,6.0
 Dc,Palomino,Skinhead Club de futbol,1,5.0,5.0
-Dd;Ds;E,Marusic,Skinhead Club de futbol,1,7.0,7.0
+Dd;Ds;E,Marusic,Skinhead Club de futbol,1,7.0,9.0
 Dd;E,Lazzari,Skinhead Club de futbol,6,5.0,7.0
 Dc,N'Dicka,Skinhead Club de futbol,14,8.0,8.0
 Ds;E,Gallo,Skinhead Club de futbol,6,5.0,6.0
 B;Dd;Ds,Emerson Royal,Skinhead Club de futbol,10,12.0,6.0
 Dd;Dc,Kalulu,Skinhead Club de futbol,5,5.0,11.0
-Ds;E,Tavares N.,Skinhead Club de futbol,3,6.0,17.0
+Ds;E,Tavares N.,Skinhead Club de futbol,3,6.0,16.0
 Dc,Gatti,Skinhead Club de futbol,15,7.0,12.0
-Dd;Ds;E,Birindelli,Skinhead Club de futbol,1,5.0,8.0
+Dd;Ds;E,Birindelli,Skinhead Club de futbol,1,5.0,7.0
 Dd;Ds;E,Coulibaly W. *,Skinhead Club de futbol,1,2.0,3.0
-C;T,Kastanos,Skinhead Club de futbol,3,4.0,8.0
-C,Mkhitaryan,Skinhead Club de futbol,26,14.0,15.0
+C;T,Kastanos,Skinhead Club de futbol,3,4.0,7.0
+C,Mkhitaryan,Skinhead Club de futbol,26,14.0,14.0
 M;C,Lobotka,Skinhead Club de futbol,10,10.0,9.0
 T;A,Maldini,Skinhead Club de futbol,10,8.0,11.0
-M;C,Brescianini,Skinhead Club de futbol,24,5.0,12.0
-C,Ilic,Skinhead Club de futbol,7,7.0,9.0
+M;C,Brescianini,Skinhead Club de futbol,24,5.0,14.0
+C,Ilic,Skinhead Club de futbol,7,7.0,8.0
 T;A,Baldanzi,Skinhead Club de futbol,4,8.0,9.0
 C;T,Fazzini,Skinhead Club de futbol,1,4.0,9.0
 C,Payero,Skinhead Club de futbol,1,7.0,6.0
-Pc,Morata,Skinhead Club de futbol,100,26.0,21.0
-Pc,Belotti,Skinhead Club de futbol,17,16.0,11.0
-Pc,Pohjanpalo,Skinhead Club de futbol,2,15.0,19.0
-Pc,Krstovic,Skinhead Club de futbol,15,16.0,16.0
+Pc,Morata *,Skinhead Club de futbol,100,26.0,20.0
+Pc,Belotti *,Skinhead Club de futbol,17,16.0,11.0
+Pc,Pohjanpalo *,Skinhead Club de futbol,2,15.0,18.0
+Pc,Krstovic,Skinhead Club de futbol,15,16.0,18.0
 Pc,Castro S.,Skinhead Club de futbol,25,7.0,22.0
-Por,Milinkovic-Savic V.,UBS un bè scarsi,4,10.0,17.0
+Por,Milinkovic-Savic V.,UBS un bè scarsi,4,10.0,18.0
 Por,Okoye,UBS un bè scarsi,6,7.0,6.0
-Por,Suzuki,UBS un bè scarsi,2,7.0,9.0
+Por,Suzuki,UBS un bè scarsi,2,7.0,8.0
 Ds;Dc,Barba *,UBS un bè scarsi,1,1.0,2.0
 Dc,Romagnoli,UBS un bè scarsi,10,10.0,5.0
 Dc,Bani,UBS un bè scarsi,2,7.0,5.0
 Ds;E,Augello,UBS un bè scarsi,4,5.0,8.0
-Ds;E,Angelino,UBS un bè scarsi,10,10.0,10.0
-Dc,Mari',UBS un bè scarsi,4,7.0,6.0
+Ds;E,Angelino,UBS un bè scarsi,10,10.0,12.0
+Dc,Mari',UBS un bè scarsi,4,7.0,5.0
 E,Mazzocchi,UBS un bè scarsi,4,4.0,2.0
 Dd;Ds;E,Kayode *,UBS un bè scarsi,8,6.0,1.0
-Dc,Gaspar K.,UBS un bè scarsi,1,3.0,8.0
-B;Ds;E,Sverko,UBS un bè scarsi,1,5.0,6.0
+Dc,Gaspar K.,UBS un bè scarsi,1,3.0,7.0
+B;Ds;E,Sverko,UBS un bè scarsi,1,5.0,5.0
 W,Politano,UBS un bè scarsi,21,23.0,14.0
-M;C,Freuler,UBS un bè scarsi,12,10.0,14.0
-C,Barella,UBS un bè scarsi,45,19.0,26.0
-C;T,Pasalic,UBS un bè scarsi,20,15.0,11.0
+M;C,Freuler,UBS un bè scarsi,12,10.0,13.0
+C,Barella,UBS un bè scarsi,45,19.0,25.0
+C;T,Pasalic,UBS un bè scarsi,20,15.0,10.0
 C;W,Messias,UBS un bè scarsi,10,9.0,4.0
-M;C,Ricci S.,UBS un bè scarsi,1,9.0,11.0
-W;T,Harroui,UBS un bè scarsi,14,13.0,8.0
-W,Tchaouna,UBS un bè scarsi,1,9.0,5.0
-C,Reijnders,UBS un bè scarsi,15,11.0,22.0
-Pc,Zapata D.,UBS un bè scarsi,65,25.0,20.0
-A,Caprari,UBS un bè scarsi,1,9.0,12.0
+M;C,Ricci S.,UBS un bè scarsi,1,9.0,12.0
+W;T,Harroui,UBS un bè scarsi,14,13.0,7.0
+W,Tchaouna,UBS un bè scarsi,1,9.0,4.0
+C,Reijnders,UBS un bè scarsi,15,11.0,26.0
+Pc,Zapata D.,UBS un bè scarsi,65,25.0,19.0
+A,Caprari,UBS un bè scarsi,1,9.0,11.0
 Pc,Piccoli,UBS un bè scarsi,12,12.0,18.0
-A,Gudmundsson A.,UBS un bè scarsi,65,28.0,20.0
+A,Gudmundsson A.,UBS un bè scarsi,65,28.0,22.0
 W;A,Banda,UBS un bè scarsi,1,10.0,5.0
-Pc,Vitinha O.,UBS un bè scarsi,15,11.0,6.0
+Pc,Vitinha O.,UBS un bè scarsi,15,11.0,5.0
 Pc,Castellanos,UBS un bè scarsi,75,21.0,25.0
-A,Adams C.,UBS un bè scarsi,10,15.0,22.0
+A,Adams C.,UBS un bè scarsi,10,15.0,24.0
 Por,Paleari,Belkai du Guarana,1,1.0,1.0
 Por,Ryan *,Belkai du Guarana,1,1.0,1.0
-Por,Svilar,Belkai du Guarana,17,13.0,13.0
+Por,Svilar,Belkai du Guarana,17,13.0,12.0
 B;Ds;E,Biraghi,Belkai du Guarana,5,8.0,5.0
-E,Gosens,Belkai du Guarana,8,12.0,15.0
-Dc,Buongiorno,Belkai du Guarana,28,16.0,16.0
+E,Gosens,Belkai du Guarana,8,12.0,16.0
+Dc,Buongiorno,Belkai du Guarana,28,16.0,15.0
 Dc,Bremer,Belkai du Guarana,11,16.0,8.0
 Dd;Dc,Pavard,Belkai du Guarana,23,15.0,7.0
-B;Dd;Ds,Danilo,Belkai du Guarana,14,16.0,8.0
-E,Bellanova,Belkai du Guarana,20,12.0,12.0
-Dd;E,Dodo',Belkai du Guarana,1,9.0,11.0
-Dc,Hien,Belkai du Guarana,1,8.0,7.0
-C;T,Frattesi,Belkai du Guarana,20,17.0,17.0
-T,Samardzic,Belkai du Guarana,16,16.0,18.0
+B;Dd;Ds,Danilo *,Belkai du Guarana,14,16.0,8.0
+E,Bellanova,Belkai du Guarana,20,12.0,13.0
+Dd;E,Dodo',Belkai du Guarana,1,9.0,12.0
+Dc,Hien,Belkai du Guarana,1,8.0,8.0
+C;T,Frattesi,Belkai du Guarana,20,17.0,20.0
+T,Samardzic,Belkai du Guarana,16,16.0,17.0
 C,Sohm,Belkai du Guarana,1,4.0,14.0
-W;A,Man,Belkai du Guarana,41,18.0,21.0
+W;A,Man,Belkai du Guarana,41,18.0,20.0
 M;C,Thuram K.,Belkai du Guarana,7,12.0,19.0
 W,Ndoye,Belkai du Guarana,1,9.0,21.0
-T,Koopmeiners,Belkai du Guarana,33,28.0,16.0
+T,Koopmeiners,Belkai du Guarana,33,28.0,15.0
 E;M,Frendrup,Belkai du Guarana,15,13.0,12.0
 M;C,Ederson D.s.,Belkai du Guarana,85,18.0,17.0
 T,Colpani,Belkai du Guarana,25,22.0,11.0
-C;T,Fabbian,Belkai du Guarana,25,13.0,11.0
-W;A,Conceicao,Belkai du Guarana,5,10.0,15.0
-Pc,Kean,Belkai du Guarana,21,21.0,32.0
+C;T,Fabbian,Belkai du Guarana,25,13.0,12.0
+W;A,Conceicao,Belkai du Guarana,5,10.0,16.0
+Pc,Kean,Belkai du Guarana,21,21.0,33.0
 A,Thauvin,Belkai du Guarana,2,10.0,21.0
 Pc,Thuram,Belkai du Guarana,101,30.0,40.0
 A,Kvaratskhelia *,Belkai du Guarana,91,30.0,26.0
-A,Noslin,Belkai du Guarana,11,16.0,13.0
-Pc,Bonny,Belkai du Guarana,1,7.0,15.0
+A,Noslin,Belkai du Guarana,11,16.0,12.0
+Pc,Bonny,Belkai du Guarana,1,7.0,14.0
 Por,Provedel,Enju City Suns,1,12.0,10.0
 Por,Joronen,Enju City Suns,1,6.0,2.0
-Por,Turati,Enju City Suns,1,8.0,12.0
-Dc,Mina,Enju City Suns,9,8.0,8.0
-Dc,Svoboda,Enju City Suns,2,4.0,6.0
+Por,Turati,Enju City Suns,1,8.0,13.0
+Dc,Mina,Enju City Suns,9,8.0,6.0
+Dc,Svoboda,Enju City Suns,2,4.0,5.0
 B;Ds;E,Cabal,Enju City Suns,11,6.0,5.0
 Dc,Wieteska *,Enju City Suns,1,3.0,2.0
-Dc,Giannetti L.,Enju City Suns,1,4.0,3.0
+Dc,Giannetti L.,Enju City Suns,1,4.0,2.0
 Dc,Coco,Enju City Suns,13,8.0,8.0
 B;Dd;E,Savona,Enju City Suns,1,1.0,13.0
-W,Lazovic,Enju City Suns,3,9.0,13.0
-W,Orsolini,Enju City Suns,67,21.0,28.0
+W,Lazovic,Enju City Suns,3,9.0,12.0
+W,Orsolini,Enju City Suns,67,21.0,27.0
 C,Guendouzi,Enju City Suns,5,9.0,12.0
-M;C,Duda,Enju City Suns,5,8.0,6.0
-M;C,Nicolussi Caviglia,Enju City Suns,1,1.0,17.0
-W,Gyasi,Enju City Suns,1,5.0,13.0
+M;C,Duda,Enju City Suns,5,8.0,5.0
+M;C,Nicolussi Caviglia,Enju City Suns,1,1.0,18.0
+W,Gyasi,Enju City Suns,1,5.0,12.0
 W;T,Da Cunha,Enju City Suns,1,12.0,10.0
 M;C,Kone' M.,Enju City Suns,1,9.0,16.0
 M;C,Prati,Enju City Suns,5,5.0,1.0
 W;A,Karlsson,Enju City Suns,3,6.0,5.0
-C;T,Bernabe',Enju City Suns,18,14.0,9.0
-A,Dybala,Enju City Suns,102,35.0,26.0
+C;T,Bernabe',Enju City Suns,18,14.0,8.0
+A,Dybala,Enju City Suns,102,35.0,24.0
 Pc,Milik,Enju City Suns,1,10.0,1.0
-Pc,Cutrone,Enju City Suns,2,8.0,20.0
+Pc,Cutrone,Enju City Suns,2,8.0,19.0
 Pc,Vlahovic,Enju City Suns,231,38.0,27.0
 A,Esposito Se.,Enju City Suns,1,3.0,23.0
 Por,Gollini,Team Briacu 2020,1,10.0,2.0
@@ -152,85 +152,85 @@ Dc,Bastoni,Team Briacu 2020,50,16.0,18.0
 B;Dd;E,Di Lorenzo,Team Briacu 2020,22,20.0,19.0
 Ds;E,Hernandez T.,Team Briacu 2020,42,20.0,13.0
 Dc,Tomori,Team Briacu 2020,7,14.0,7.0
-Dc,Hermoso,Team Briacu 2020,6,10.0,2.0
-B;Dd;E,Vojvoda,Team Briacu 2020,1,7.0,5.0
-Dc,Pongracic,Team Briacu 2020,1,9.0,1.0
+Dc,Hermoso *,Team Briacu 2020,6,10.0,2.0
+B;Dd;E,Vojvoda,Team Briacu 2020,1,7.0,4.0
+Dc,Pongracic,Team Briacu 2020,1,9.0,3.0
 Dd;E,Holm,Team Briacu 2020,4,9.0,8.0
-Dd;Dc,Baschirotto,Team Briacu 2020,4,10.0,6.0
-E,Carlos Augusto,Team Briacu 2020,15,8.0,15.0
-Ds;E,Dorgu,Team Briacu 2020,3,8.0,11.0
-M;C,Badelj,Team Briacu 2020,1,6.0,10.0
-W,El Shaarawy,Team Briacu 2020,3,7.0,17.0
+Dd;Dc,Baschirotto,Team Briacu 2020,4,10.0,5.0
+E,Carlos Augusto,Team Briacu 2020,15,8.0,16.0
+Ds;E,Dorgu *,Team Briacu 2020,3,8.0,11.0
+M;C,Badelj,Team Briacu 2020,1,6.0,9.0
+W,El Shaarawy,Team Briacu 2020,3,7.0,18.0
 T;A,Zaniolo,Team Briacu 2020,13,12.0,12.0
 C;T,Loftus-Cheek,Team Briacu 2020,17,19.0,9.0
 M;C,Rovella,Team Briacu 2020,1,7.0,9.0
-C;T,Fagioli,Team Briacu 2020,5,9.0,3.0
-M;C,McTominay,Team Briacu 2020,30,19.0,24.0
+C;T,Fagioli,Team Briacu 2020,5,9.0,2.0
+M;C,McTominay,Team Briacu 2020,30,19.0,23.0
 T,Vlasic,Team Briacu 2020,15,14.0,14.0
 C;T,Aebischer,Team Briacu 2020,9,10.0,3.0
 C;T,Ferguson,Team Briacu 2020,11,18.0,12.0
 W;A,Neres,Team Briacu 2020,18,19.0,23.0
 Pc,Lukaku,Team Briacu 2020,40,33.0,30.0
-A,Lookman,Team Briacu 2020,21,29.0,38.0
-Pc,Djuric,Team Briacu 2020,15,12.0,19.0
-W;A,Soule',Team Briacu 2020,30,22.0,7.0
-Pc,Retegui,Team Briacu 2020,21,19.0,33.0
-Por,Skorupski,Morocco Gang,3,11.0,11.0
-Por,Reina,Morocco Gang,4,2.0,9.0
+A,Lookman,Team Briacu 2020,21,29.0,36.0
+Pc,Djuric,Team Briacu 2020,15,12.0,17.0
+W;A,Soule',Team Briacu 2020,30,22.0,5.0
+Pc,Retegui,Team Briacu 2020,21,19.0,34.0
+Por,Skorupski,Morocco Gang,3,11.0,12.0
+Por,Reina,Morocco Gang,4,2.0,8.0
 Por,De Gea,Morocco Gang,3,11.0,19.0
-E,Dimarco,Morocco Gang,40,23.0,22.0
-Dc,Luperto,Morocco Gang,12,8.0,11.0
+E,Dimarco,Morocco Gang,40,23.0,21.0
+Dc,Luperto,Morocco Gang,12,8.0,10.0
 Dc,Mancini,Morocco Gang,7,10.0,13.0
-Ds;E,Martin,Morocco Gang,12,4.0,10.0
-B;Ds;E,Kolasinac,Morocco Gang,16,10.0,5.0
-E;M,Sergi Roberto,Morocco Gang,11,9.0,6.0
-Ds;Dc,Ranieri L.,Morocco Gang,3,8.0,7.0
+Ds;E,Martin,Morocco Gang,12,4.0,11.0
+B;Ds;E,Kolasinac,Morocco Gang,16,10.0,6.0
+E;M,Sergi Roberto,Morocco Gang,11,9.0,5.0
+Ds;Dc,Ranieri L.,Morocco Gang,3,8.0,8.0
 Dc,Erlic,Morocco Gang,1,6.0,4.0
-Dd;Dc,De Winter,Morocco Gang,1,6.0,3.0
+Dd;Dc,De Winter,Morocco Gang,1,6.0,7.0
 Dc,Beukema,Morocco Gang,5,7.0,10.0
 B;Dd;E,Delprato,Morocco Gang,6,7.0,14.0
-M;C,De Roon,Morocco Gang,6,9.0,15.0
+M;C,De Roon,Morocco Gang,6,9.0,14.0
 W;A,Zaccagni,Morocco Gang,62,26.0,27.0
 T;A,Pulisic,Morocco Gang,110,29.0,29.0
-M;C,Pessina,Morocco Gang,40,13.0,6.0
+M;C,Pessina,Morocco Gang,40,13.0,5.0
 C,Douglas Luiz,Morocco Gang,25,19.0,9.0
 W;T,Oudin *,Morocco Gang,6,7.0,2.0
 M;C,Ramadani,Morocco Gang,1,6.0,7.0
 C;T,Dele-Bashiru,Morocco Gang,1,5.0,14.0
-Pc,Pinamonti,Morocco Gang,2,17.0,21.0
+Pc,Pinamonti,Morocco Gang,2,17.0,18.0
 Pc,Abraham,Morocco Gang,1,13.0,10.0
 A,Gonzalez N.,Morocco Gang,8,26.0,13.0
 A,Luvumbo,Morocco Gang,11,12.0,8.0
-Pc,Dia,Morocco Gang,13,14.0,25.0
+Pc,Dia,Morocco Gang,13,14.0,24.0
 A,Brenner,Morocco Gang,2,7.0,7.0
-Pc,Lucca,Morocco Gang,21,13.0,21.0
+Pc,Lucca,Morocco Gang,21,13.0,23.0
 Por,Meret,PanDiStelle,30,15.0,19.0
-Por,Scuffet,PanDiStelle,5,7.0,4.0
-Por,Caprile,PanDiStelle,1,2.0,8.0
-E,Zappacosta,PanDiStelle,1,8.0,16.0
-Dc,Hummels,PanDiStelle,1,8.0,5.0
-B;Dd;E,Zappa,PanDiStelle,1,7.0,8.0
+Por,Scuffet,PanDiStelle,5,7.0,3.0
+Por,Caprile,PanDiStelle,1,2.0,10.0
+E,Zappacosta,PanDiStelle,1,8.0,15.0
+Dc,Hummels,PanDiStelle,1,8.0,4.0
+B;Dd;E,Zappa,PanDiStelle,1,7.0,7.0
 Dc,Martinez Quarta *,PanDiStelle,13,11.0,7.0
 Dd;Ds;E,Cambiaso,PanDiStelle,20,10.0,14.0
 B;Ds;E,Olivera,PanDiStelle,1,8.0,10.0
 Dc,Bijol,PanDiStelle,2,8.0,10.0
-Ds;E,Valeri,PanDiStelle,1,6.0,12.0
-Dd;Dc,Posch,PanDiStelle,16,9.0,4.0
-Dc,Dossena,PanDiStelle,1,8.0,7.0
+Ds;E,Valeri,PanDiStelle,1,6.0,13.0
+Dd;Dc,Posch,PanDiStelle,16,9.0,3.0
+Dc,Dossena,PanDiStelle,1,8.0,6.0
 Dc,Marin R.,PanDiStelle,1,8.0,1.0
 C;T,Pellegrini Lo.,PanDiStelle,30,22.0,11.0
-M;C,Mandragora,PanDiStelle,5,9.0,5.0
-M;C,Calhanoglu,PanDiStelle,87,30.0,20.0
-M;C,Zambo Anguissa,PanDiStelle,11,11.0,23.0
-T,Gaetano,PanDiStelle,1,8.0,11.0
-C;T,Malinovskyi,PanDiStelle,3,11.0,4.0
+M;C,Mandragora,PanDiStelle,5,9.0,6.0
+M;C,Calhanoglu,PanDiStelle,87,30.0,19.0
+M;C,Zambo Anguissa,PanDiStelle,11,11.0,24.0
+T,Gaetano,PanDiStelle,1,8.0,10.0
+C;T,Malinovskyi,PanDiStelle,3,11.0,3.0
 W,Strefezza,PanDiStelle,16,11.0,20.0
-W;T,Suslov,PanDiStelle,18,13.0,5.0
+W;T,Suslov,PanDiStelle,18,13.0,6.0
 M;C,Keita M.,PanDiStelle,1,7.0,4.0
-A,Leao,PanDiStelle,104,26.0,23.0
-Pc,Colombo,PanDiStelle,1,11.0,17.0
-W;A,Mihaila,PanDiStelle,2,9.0,7.0
-A,Mota,PanDiStelle,1,10.0,18.0
-A,Beltran L.,PanDiStelle,1,11.0,21.0
+A,Leao,PanDiStelle,104,26.0,22.0
+Pc,Colombo,PanDiStelle,1,11.0,18.0
+W;A,Mihaila,PanDiStelle,2,9.0,8.0
+A,Mota,PanDiStelle,1,10.0,17.0
+A,Beltran L.,PanDiStelle,1,11.0,22.0
 A,Yildiz,PanDiStelle,41,16.0,23.0
-Pc,Dovbyk,PanDiStelle,124,31.0,23.0
+Pc,Dovbyk,PanDiStelle,124,31.0,24.0
